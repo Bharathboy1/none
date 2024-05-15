@@ -279,7 +279,7 @@ width: 40%;
 height: 100%;
 background: transparent;
 transition: 3s;
-border: 2px solid #00abf0;
+
 animation: manipActiveHover .1s forwards;
 animation-delay: 4s;
 pointer-events: none;
